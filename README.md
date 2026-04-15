@@ -9,7 +9,7 @@ Currently focused on leveling up in backend engineering, distributed systems, an
 ## 🚀 What I'm Working On
 
 * 🧠 Consistently solving coding problems (John Cricket grind 🏏)
-  → focusing on patterns
+  → focusing on patterns and design
 
 ---
 
